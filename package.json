@@ -1,0 +1,23 @@
+{
+  "name": "aulas",
+  "version": "1.0.0",
+  "description": "js inicial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/texugoarthur/aulas.git"
+  },
+  "author": "texugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/texugoarthur/aulas/issues"
+  },
+  "homepage": "https://github.com/texugoarthur/aulas#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
